@@ -1,35 +1,42 @@
-## 👋 Hi, I'm Michael Bramnick
+# Senior Full-Stack AI Developer
 
-**Full-Stack Developer | AI Engineer**
-*React • Next.js • Node.js • Django*
+**Next.js | NestJS | Python | FastAPI | Supabase | AWS**
 
-I build **scalable, AI-driven web applications** that merge performance, intelligence, and great design.
-With 10+ years of experience, I turn complex ideas into fast, user-focused digital products.
+I’m a California-based full-stack developer focused on AI-powered products, SaaS platforms, and the systems behind them. I work across the stack, from clean Next.js interfaces to APIs, databases, AI workflows, and cloud infrastructure.
 
----
+I care about practical architecture, readable code, and building software that other developers can easily understand and extend.
 
-### 🧠 Philosophy
+## Main Stack
 
-> “Write code that scales. Design systems that last.”
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,python,fastapi,supabase,aws&theme=dark" alt="Next.js, NestJS, Python, FastAPI, Supabase, and AWS" />
+</p>
 
-Clean architecture, modular design, and data-driven development guide everything I build.
+## What I Work With
 
----
+### Frontend
 
-### ⚙️ Core Stack
+Next.js, React, TypeScript, JavaScript, Tailwind CSS, responsive interfaces, and reusable component systems.
 
-**Frontend:** React, Next.js, TypeScript, TailwindCSS
-**Backend:** Node.js, Express, Django, GraphQL
-**AI/ML:** OpenAI, LangChain, TensorFlow, PyTorch
-**Cloud:** AWS, Docker, Kubernetes, Vercel
+### Backend & APIs
 
----
+Python, FastAPI, NestJS, Node.js, REST APIs, WebSockets, background jobs, and third-party API integrations.
 
-### 🚀 What I Build
+### AI & Automation
 
-SaaS platforms, AI-powered apps, dashboards, and modern cloud systems.
+OpenAI API, Anthropic Claude, custom LLM workflows, prompt engineering, structured outputs, RAG, tool calling, and document processing.
 
----
+### Data & Infrastructure
 
-📬 **Let’s Connect**
-Building something that fuses **AI + Web**? Let’s talk.
+PostgreSQL, Supabase, SQL, AWS, Docker, Vercel, CI/CD, GitHub Actions, authentication, and role-based access control.
+
+## How I Work
+
+* Build straightforward architecture that can support the product as it grows
+* Communicate clearly about progress, tradeoffs, and potential problems
+* Take ownership from database design and API development through deployment
+* Treat security, performance, and maintainability as part of every feature
+
+## Additional Skills
+
+`SaaS Architecture` | `Multi-Tenant Systems` | `API Integration` | `OAuth 2.0` | `JWT` | `PostgreSQL` | `Database Design` | `Real-Time Applications` | `Performance Optimization` | `Production Troubleshooting`
